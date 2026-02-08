@@ -4,6 +4,7 @@ Last modified: 2/8/2026
 
 An implementation of Conway's Game of Life using text file inputs. 
 Press space to pause/unpause, and press 'S' to save to the designated save file.
+Click to add or remove a cell.
 
 To run:
 Execute the following with file names in gameFiles/
